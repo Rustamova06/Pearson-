@@ -15,7 +15,7 @@ This project focuses on manual testing of the Pearson+ platform to evaluate its 
 - Form Validation Testing
 - Feature Testing
 - Positive & Negative Testing
-- 
+  
 ## Testing Activities
 - Checklist Preparation
 - Test Case Design and Execution
