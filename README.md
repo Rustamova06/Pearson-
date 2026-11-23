@@ -4,11 +4,18 @@
 This project focuses on manual testing of the Pearson+ platform to evaluate its functionality, usability, and overall user experience.
 
 ## Testing Scope
+
+- Desktop Application Testing
+- Web Application Testing
+- Mobile Application Testing
 - Functional Testing
 - UI Testing
-- Exploratory Testing
-- Positive and Negative Testing
-
+- Registration & Authentication Testing
+- Navigation Testing
+- Form Validation Testing
+- Feature Testing
+- Positive & Negative Testing
+- 
 ## Testing Activities
 - Checklist Preparation
 - Test Case Design and Execution
